@@ -76,6 +76,6 @@ If using LEDs on your FPGA board, map each 3-bit segment of `lights[11:0]` to a 
 
 ## 🙌 Credits
 
-Made with ❤️ by a student of digital design, exploring traffic systems through RTL design.
+Made with determination by Kashika Sharma, a student of digital design, exploring traffic systems through RTL design.
 
 ---
