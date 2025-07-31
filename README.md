@@ -54,20 +54,6 @@ lights = {M1[2:0], M2[2:0], MT[2:0], S[2:0]}
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/traffic-light-controller-12IO.git
-   ```
-
-2. Open the Verilog files in **Vivado**
-
-3. Run simulation using the provided testbench (`Traffic_Light_Controller_TB.v`)
-
-4. (Optional) Implement on a PyNQ board using GPIO to drive 12 LEDs
-
----
 
 ## 🔌 Output Mapping
 
@@ -82,11 +68,11 @@ If using LEDs on your FPGA board, map each 3-bit segment of `lights[11:0]` to a 
 
 ---
 
-## 📷 Demo (Optional)
+## 📷 Demo
 
-_Add waveform screenshots, simulation logs, or hardware demo photos here._
+![WhatsApp Image 2025-07-31 at 1 09 23 PM (1)](https://github.com/user-attachments/assets/63c3aa66-12ba-4145-9bba-05b2e1da0439)
+![WhatsApp Image 2025-07-31 at 1 09 23 PM](https://github.com/user-attachments/assets/ab578e6f-ceeb-4509-b48d-b61625e71bba)
 
----
 
 ## 🙌 Credits
 
